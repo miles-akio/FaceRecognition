@@ -1,5 +1,3 @@
-# FaceRecognition
-
 # FaceRecognition: A Face Recognition and Visualization Tool
 
 ## Project Overview
